@@ -1,0 +1,13 @@
+C:\Users\parra\OneDrive\Documentos\Senai\Relatorio\bin\Debug\netcoreapp3.1\Relatorio.exe
+C:\Users\parra\OneDrive\Documentos\Senai\Relatorio\bin\Debug\netcoreapp3.1\Relatorio.deps.json
+C:\Users\parra\OneDrive\Documentos\Senai\Relatorio\bin\Debug\netcoreapp3.1\Relatorio.runtimeconfig.json
+C:\Users\parra\OneDrive\Documentos\Senai\Relatorio\bin\Debug\netcoreapp3.1\Relatorio.runtimeconfig.dev.json
+C:\Users\parra\OneDrive\Documentos\Senai\Relatorio\bin\Debug\netcoreapp3.1\Relatorio.dll
+C:\Users\parra\OneDrive\Documentos\Senai\Relatorio\bin\Debug\netcoreapp3.1\Relatorio.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\Relatorio\obj\Debug\netcoreapp3.1\Relatorio.csprojAssemblyReference.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Relatorio\obj\Debug\netcoreapp3.1\Relatorio.AssemblyInfoInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Relatorio\obj\Debug\netcoreapp3.1\Relatorio.AssemblyInfo.cs
+C:\Users\parra\OneDrive\Documentos\Senai\Relatorio\obj\Debug\netcoreapp3.1\Relatorio.csproj.CoreCompileInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Relatorio\obj\Debug\netcoreapp3.1\Relatorio.dll
+C:\Users\parra\OneDrive\Documentos\Senai\Relatorio\obj\Debug\netcoreapp3.1\Relatorio.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\Relatorio\obj\Debug\netcoreapp3.1\Relatorio.genruntimeconfig.cache
