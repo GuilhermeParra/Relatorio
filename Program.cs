@@ -6,7 +6,7 @@ namespace Relatorio
     {
         static void Main(string[] args)
         {
-            Relatorio data = new Relatorio();
+            
             Console.WriteLine("Data:");
             
 
