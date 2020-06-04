@@ -6,6 +6,10 @@ namespace Relatorio
     {
         static void Main(string[] args)
         {
+            Relatorio data = new Relatorio();
+            Console.WriteLine("Data:");
+            
+
             System.Console.WriteLine("Mostrando todos os relatórios disóníveis: \n");
             Mensal mes = new Mensal();
             mes.MostrarRelatorio();

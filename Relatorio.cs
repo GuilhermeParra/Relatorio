@@ -4,7 +4,7 @@ namespace Relatorio
 {
     public class Relatorio
     {
-        public string dateTime;
+        public DateTime data {get; set;}
 
         public virtual void MostrarRelatorio(){
             Console.WriteLine("Mostrando relatório geral");
