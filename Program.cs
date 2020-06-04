@@ -10,7 +10,7 @@ namespace Relatorio
             Console.WriteLine("Data:");
             
 
-            System.Console.WriteLine("Mostrando todos os relatórios disóníveis: \n");
+            System.Console.WriteLine("Mostrando todos os relatórios disponíveis: \n");
             Mensal mes = new Mensal();
             mes.MostrarRelatorio();
 
